@@ -50,3 +50,10 @@
 * Time management and meetings
 * Hiring and recruitment
 
+
+Development
+-----------
+* Meet coding style
+* Check refactored code has same features
+* Add relevent tests unit/integration/end to end
+* Ensure code meet all the requirements from ticket
