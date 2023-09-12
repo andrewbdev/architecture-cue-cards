@@ -7,7 +7,7 @@
 * On call and fixing major incidents
 
 # Areas
-
+* Security arch and deloyment review
 * Team shape and hiring
 * Match solution to team knowledge/experience
 * Think about green computing 
