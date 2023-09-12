@@ -9,6 +9,8 @@
 # Areas
 
 * Team shape and hiring
+* Match solution to team knowledge/experience
+* Think about green computing 
 * NFRs
 * Diagrams
 * Relase management
