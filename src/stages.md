@@ -53,9 +53,57 @@
 * Hiring and recruitment
 
 
-Development
------------
+# Development
 * Meet coding style
 * Check refactored code has same features
 * Add relevent tests unit/integration/end to end
 * Ensure code meet all the requirements from ticket
+
+
+# Ensuring quality 
+* Check solution in int/dev env
+* Look through codebase
+* Work on a small ticket in Sprint
+* Risk rate tickets and listen out/check MRs for the most risky
+* Chat with the dev team
+* Weekly costs with the TLs
+** How is the team?
+** How is the tickets going?
+** How is the CI/CD pioeliens
+pipelines?
+** How are the tests
+** Quality of the testsuite
+
+
+# Pre Go Live activities
+* Monitoring/dashboards 
+* DR plan
+* KOPs
+* Try out DR plan
+* Backups
+* Chaos testing
+
+# Releases
+* KOP for release process
+* Decide on frequency 
+* When to take the release cut
+* Release notes
+* Create change request
+
+# Security
+* AWS well architected framework
+framework
+* OWASP
+* Do pen-test
+* Automated pen-testing
+* STRIDE
+* Logging
+* Backups
+* Alerting
+* Principal of least privilege
+
+
+# Data
+* Encryption at Rest and transit
+* GDPR issues
+* Ensuring only the relevant/required information is exposed.
