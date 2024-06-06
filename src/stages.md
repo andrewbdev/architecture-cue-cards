@@ -1,10 +1,15 @@
 # Stages
 
-* Research business requirements and high level architecture
-* Ticket writing
-* Develop solution/Oversee development
-* Go Live
-* On call and fixing major incidents
+1. Research business requirements and high level architecture
+2. Break down to requirements and non functional requirements
+3. Propose technical solution
+ - Overview page on solution
+ - Produce and approve Key Design Documents or ADRs
+4. Ticket writing
+5. Develop solution/Oversee development
+  - Keep overview of risky tickets
+6. Go Live
+7. On call and fixing major incidents
 
 # Areas
 * Security arch and deloyment review
@@ -67,12 +72,12 @@
 * Risk rate tickets and listen out/check MRs for the most risky
 * Chat with the dev team
 * Weekly costs with the TLs
-** How is the team?
-** How is the tickets going?
-** How is the CI/CD pioeliens
+ * How is the team?
+ * How is the tickets going?
+ * How is the CI/CD pioeliens
 pipelines?
-** How are the tests
-** Quality of the testsuite
+ * How are the tests
+ * Quality of the testsuite
 
 
 # Pre Go Live activities
