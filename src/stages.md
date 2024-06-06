@@ -72,12 +72,12 @@
 * Risk rate tickets and listen out/check MRs for the most risky
 * Chat with the dev team
 * Weekly costs with the TLs
- * How is the team?
- * How is the tickets going?
- * How is the CI/CD pioeliens
+   * How is the team?
+   * How is the tickets going?
+   * How is the CI/CD pioeliens
 pipelines?
- * How are the tests
- * Quality of the testsuite
+   * How are the tests
+   * Quality of the testsuite
 
 
 # Pre Go Live activities
