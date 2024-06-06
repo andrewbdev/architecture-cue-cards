@@ -3,11 +3,11 @@
 1. Research business requirements and high level architecture
 2. Break down to requirements and non functional requirements
 3. Propose technical solution
- - Overview page on solution
- - Produce and approve Key Design Documents or ADRs
+  * Overview page on solution
+  * Produce and approve Key Design Documents or ADRs
 4. Ticket writing
 5. Develop solution/Oversee development
-  - Keep overview of risky tickets
+  * Keep overview of risky tickets
 6. Go Live
 7. On call and fixing major incidents
 
