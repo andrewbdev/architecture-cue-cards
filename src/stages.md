@@ -112,3 +112,7 @@ framework
 * Encryption at Rest and transit
 * GDPR issues
 * Ensuring only the relevant/required information is exposed.
+
+# Design decisions 
+* Does it meet the NFRs or requirements?
+* Will it work in Production? ie. Data volumes, requests, availability, redundancy etc?
