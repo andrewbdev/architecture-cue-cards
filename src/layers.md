@@ -10,4 +10,5 @@
 |Governance: security, pentests, Arch board,  IG, Legal, Clinical safety|
 |Releases: release artifacts and change requests, KOPs|
 |Monitoring and logging|
+|DR and Chaos testing|
 
