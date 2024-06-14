@@ -1,5 +1,5 @@
 |Layer|
-|‐------------‐-|
+|‐------------|
 |Business need/value|
 |Requirements/Non-functional requirements|
 |Technical architecture|
