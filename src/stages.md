@@ -1,4 +1,4 @@
-# Stages
+7j# Stages
 
 1. Research business requirements and high level architecture
 2. Break down to requirements and non functional requirements
@@ -116,3 +116,4 @@ framework
 # Design decisions 
 * Does it meet the NFRs or requirements?
 * Will it work in Production? ie. Data volumes, requests, availability, redundancy etc?
+* Ask Internet, client, AWS/Azure and BJSS and project contacts for advise on soutions
