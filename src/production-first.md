@@ -9,8 +9,8 @@ We are pragmatic when doing features, we build enough to meet client needs and w
 Key areas
 ---------
 
-Deployability
-######
+# Deployability
+
 **Can the system be quickly redeployed?**
 
 * Release management/release process/CAB ie. tracking what is live
@@ -25,10 +25,10 @@ Deployability
 * Chaos testing
 
 
-Security
-#######
+# Security
+
 **Is the system safe from any threats?**
-**Are users allowed to 
+**Is access secure to non-users?**
 
 * Threat monitoring 
 * Pen-testing
