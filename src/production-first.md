@@ -10,7 +10,7 @@ Key areas
 ---------
 
 Deployability
-~~~~~~~~~~~~~
+######
 **Can the system be quickly redeployed?**
 
 * Release management/release process/CAB ie. tracking what is live
@@ -26,7 +26,7 @@ Deployability
 
 
 Security
-~~~~~~~~
+#######
 **Is the system safe from any threats?**
 **Are users allowed to 
 
