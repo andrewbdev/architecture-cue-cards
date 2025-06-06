@@ -9,7 +9,7 @@ We are pragmatic when doing features, we build enough to meet client needs and w
 Key areas
 ---------
 
-# Deployability
+### Deployability
 
 **Can the system be quickly redeployed?**
 
@@ -25,7 +25,7 @@ Key areas
 * Chaos testing
 
 
-# Security
+### Security
 
 **Is the system safe from any threats?**
 **Is access secure to non-users?**
