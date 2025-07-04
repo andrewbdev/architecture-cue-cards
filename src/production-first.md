@@ -26,7 +26,9 @@ We are pragmatic when doing features, we build enough to meet client needs and w
 ### Security
 
 **Is the system safe from any threats?**
+
 **Is access secured?**
+
 **Do we correctly limit areas of the system based on the users roles?**
 
 * Threat monitoring 
