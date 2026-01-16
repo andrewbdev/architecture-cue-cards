@@ -117,3 +117,18 @@ framework
 * Does it meet the NFRs or requirements?
 * Will it work in Production? ie. Data volumes, requests, availability, redundancy etc?
 * Ask Internet, client, AWS/Azure and BJSS and project contacts for advise on soutions
+
+#Ideas
+* Value and metrics as a TA
+  * Developer experience
+    * Measuring commit time
+    * Run pipelines
+    * Get report of key code changes
+  * Meeting business needs and values
+  * High performing Dev team
+  * Production system running well
+
+* Onboarding
+* Off boarding
+  * Removing access to systems
+  * Deleting environments/data
