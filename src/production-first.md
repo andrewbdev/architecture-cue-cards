@@ -1,11 +1,11 @@
 # Production First Metholodgy
 
-
 We always think about a live system when coding and developing features or building Greenfield
 
 We are pragmatic when doing features, we build enough to meet client needs and what has value in Production
 
 We should build or improve upon the existing client frameworks around the key areas listed below
+
 ## Key areas
 
 ### Deployability
@@ -24,7 +24,6 @@ We should build or improve upon the existing client frameworks around the key ar
 * Chaos testing
 * DR Strategy - Failover etc
 
-
 ### Security
 
 **Is the system safe from any threats?**
@@ -38,9 +37,9 @@ We should build or improve upon the existing client frameworks around the key ar
 * DevSecOps
 * Secure coding practices 
 * OWASP top 10
-** Cookies - HTTPOnly, Secure, Samesite strict/lax
-** Validate/sanitise inputs
-** Prevent XSS
+  * Cookies - HTTPOnly, Secure, Samesite strict/lax
+  * Validate/sanitise inputs
+  * Prevent XSS
 * Secret scanning in pipelines
 * Package scanning
 * DAST tooling
@@ -52,7 +51,6 @@ We should build or improve upon the existing client frameworks around the key ar
 * Use of WAF/Firewalls
 * User provisioning - SCIM
 * Joiners/Movers/Leavers process
-
 
 ### Monitoring/Logging
 
@@ -69,6 +67,7 @@ We should build or improve upon the existing client frameworks around the key ar
 ### Data
 
 **What data do we hold, where is it, and how is it used?**
+
 * Data soventity
 * Data encryption - customer or platform managed keys?
 * Data catalogues
@@ -86,18 +85,18 @@ We should build or improve upon the existing client frameworks around the key ar
 * Branching stategies
 * PR review strategy
 * Tests
-** Unit
-** Integation
-** E2E
+  * Unit
+  * Integation
+  * E2E
 * Build pipelines
 * Use of AI Agents for coding
 * Loosly coupled code and services
 * Environments
-** Dynamic or developer environment
-** Integration environment
-** UAT environment
-** Pre-prod
-** Production
+  * Dynamic or developer environment
+  * Integration environment
+  * UAT environment
+  * Pre-prod
+  * Production
 * Meet client governance around coding standards and approved technologies (ie. tech radar)
 * Can easily build and run solution locally
 * Ensure Team follows guideance
@@ -113,13 +112,16 @@ We should build or improve upon the existing client frameworks around the key ar
 * Package managers to control access to 3rd party libraries
 
 ## Other concerns
+
 ### Meeting with team/TLs/TAs
+
 * How are the team doing?
 * Any blockers
 * Any issues?
 * Feedback any upstream design decisions or new areas of work
 
 ### Security Incident
+
 * Root cause analysis
 * Any proven exploits - from monitoring/logging data
 * Risk analysis - How much risk is it to the business?
@@ -130,7 +132,9 @@ We should build or improve upon the existing client frameworks around the key ar
 * Document and de-brief
 
 ## Making decisions
+
 ### Understand the context/ask
+
 * Business value/need
 * Requirements both functional and non-functional
 * Timescales/Cost and Budget
@@ -138,31 +142,31 @@ We should build or improve upon the existing client frameworks around the key ar
 * Team structure and knowledge
 
 ### Decide on a technical solution
+
 * Setup an architecture review group
-** Key technical people on the project - EA/TA/TLs
+  * Key technical people on the project - EA/TA/TLs
 * Review decisions 
-** Technical solutions
-** ADRs or KDDs
+  * Technical solutions
+  * ADRs or KDDs
 * Group sets up a framework to submit proposals and presenet this to the teams
 * Group sets up a tech radar to show acceptable techologies and architectual patterns/approaches
 * Process:
-1. Technical solution or ADR written
-2. Emailed to the group
-3. (Optional) Meeting setup to discuss proposal
-4. (Optional) Changes requested
-5. Approved
+  1. Technical solution or ADR written
+  2. Emailed to the group
+  3. (Optional) Meeting setup to discuss proposal
+  4. (Optional) Changes requested
+  5. Approved
 * All proposals are open for all to see
 
 * Documents
-** Describe business or technical problem being solved
-** Show reqirements
-*** Team restrictions
-*** Timescales
-*** Costs
-*** Client/project technical restrictions or requirements
-*** NFRs
-*** IG/Legal requirements
-
-** List options
-*** Show why each ones does/does not meet the requirements
-*** Consider - SaaS, White label, Cloud products / services, Configurable package framework, Bespoke or custom written.
+  * Describe business or technical problem being solved
+  * Show reqirements
+    * Team restrictions
+    * Timescales
+    * Costs
+    * Client/project technical restrictions or requirements
+    * NFRs
+    * IG/Legal requirements
+  * List options
+    * Show why each ones does/does not meet the requirements
+    * Consider - SaaS, White label, Cloud products / services, Configurable package framework, Bespoke or custom written.
