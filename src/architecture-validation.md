@@ -21,6 +21,7 @@
    * What happens if the sender fails to send the request?
    * What happens if the receiver fails when processing the request? ie. think about retries from the sender
    * What happens if the sender does not receieve the response from the reciever
+   * How does the receiver deal with multiple requests containing the same data or operation? ie. idempotency
  * Technology
    * Are there any frameworks/user flows that this link requires ie. browser based flow?
-   * How does the receiver deal with multiple requests containing the same data or operation? ie. idempotency
+   
